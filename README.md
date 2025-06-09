@@ -1,4 +1,4 @@
-# 📊 Script de Extração de Contas Coletivas (JAN/2025) - Energia Elétrica
+# 📊 Script de Extração de Contas Coletivas - Energia Elétrica
 
 ## 📝 Descrição
 
